@@ -2,7 +2,9 @@
 
 # EarthQuake
 Animated Dashboard and analytical charts to display live feed of Earthquake happening around the world(Major US).
+
 Implemented Localization - English, French, Hindi
+
 3D world redered using d3.js to show earthquake magnitude
 
 
